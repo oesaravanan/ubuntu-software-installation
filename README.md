@@ -2,5 +2,5 @@
 ### Add Permisson for installation script ###
 sudo chmod +x ./installation.sh
 
-## Run this file##
+### Run this file ###
 sudo ./installation.sh
